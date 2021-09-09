@@ -14,3 +14,4 @@ João :joaovitorpaula2010@hotmail.com
 Gabriel : gabrielferreirafabian@gmail.com
 
 Maycon : mayconrafacruz@gmail.com
+# EquipeJeRso
